@@ -1,59 +1,45 @@
-<h1 align="center">👩‍💻 Seu Nome</h1>
+<h1 align="center">Samuel Felipe</h1>
 
 <p align="center">
 Estudante de Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
-🎯 Em transição de carreira para Desenvolvimento de Sistemas <br>
-💻 Interessado em programação, tecnologia e soluções digitais
+  Progamação, Solução de problemas
 </p>
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-Sou um estudante em processo de transição para a área de tecnologia.  
-Atualmente estou focado em desenvolver habilidades em **lógica de programação, informática e desenvolvimento de software**.
+Sou um estudante de Desenvolvimento de sistemas, já atuando na área como FreeLancer
+Atualmente estou focado em desenvolver habilidades em **Banco de Dados e IA.
 
-Gosto de aprender coisas novas, resolver problemas e transformar ideias em soluções digitais.
-
----
-
-## 🧠 Atualmente estudando
-
-- Lógica de Programação
-- Introdução à Informática
-- Python (iniciante)
-- Conceitos de desenvolvimento de sistemas
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## Tecnologias Principais
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-## 📌 Objetivos
 
-- Desenvolver projetos práticos
-- Conseguir uma oportunidade de estágio
-- Evoluir constantemente na área de tecnologia
 
 ---
 
-## 📬 Contato
+##  Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-felipe-0a2112392)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelfelipeleao@gmail.com)
 
----
 
-⭐ Obrigado por visitar meu perfil!
+
