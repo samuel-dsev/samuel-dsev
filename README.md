@@ -13,7 +13,7 @@ Estudante de Desenvolvimento de Sistemas
 ##  Sobre mim
 
 Sou um estudante de Desenvolvimento de sistemas, já atuando na área como FreeLancer
-Atualmente estou focado em desenvolver habilidades em **Banco de Dados e IA.
+Atualmente estou focado em desenvolver habilidades em Harness com Agentes de IA
 
 
 ---
